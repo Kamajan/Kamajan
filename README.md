@@ -1,5 +1,5 @@
 hola soy kamajan
-estoy interesado en aprender redes y ciberseguridda
+estoy interesado en aprender redes y ciberseguridad
 actualmente estoy estudiando redes de datos
 busco compartir mis conocimientos de lo que llevo del segundo trimestre y aprender tambien de ustedes
 [CMD_SIN_SECRETOS.pdf](https://github.com/Kamajan/Kamajan/files/15284892/CMD_SIN_SECRETOS.pdf)
