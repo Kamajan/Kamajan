@@ -1,0 +1,19 @@
+hola soy kamajan
+estoy interesado en aprender redes y ciberseguridda
+actualmente estoy estudiando redes de datos
+busco compartir mis conocimientos de lo que llevo del segundo trimestre y aprender tambien de ustedes
+[CMD_SIN_SECRETOS.pdf](https://github.com/Kamajan/Kamajan/files/15284892/CMD_SIN_SECRETOS.pdf)
+[400comandos.pdf](https://github.com/Kamajan/Kamajan/files/15284888/400comandos.pdf)
+
+Hi, I’m @Kamajan
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+Kamajan/Kamajan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
